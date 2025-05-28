@@ -1,0 +1,149 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "sjC67-66fQiWVtWsB6Cy0j2WZiI",
+    "nextPageToken": "CAQQAA",
+    "regionCode": "IN",
+    "pageInfo": {
+      "totalResults": 1000000,
+      "resultsPerPage": 4
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "kFc8vLrLCtO8FPsWdEX9qJ_x7Hg",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "NRmAXDWJVnU"
+        },
+        "snippet": {
+          "publishedAt": "2024-11-05T14:33:03Z",
+          "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+          "title": "Generative AI Explained In 5 Minutes | What Is GenAI? | Introduction To Generative AI | Simplilearn",
+          "description": "Don't forget to take the quiz at 04:22! Comment below what you think is the right answer, to be one of the 3 lucky winners who can ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/NRmAXDWJVnU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/NRmAXDWJVnU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/NRmAXDWJVnU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Simplilearn",
+          "liveBroadcastContent": "none",
+          "publishTime": "2024-11-05T14:33:03Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "cLaB6xMqiD9rWvGN0b81onbr3GY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "G2fqAlgmoPo"
+        },
+        "snippet": {
+          "publishedAt": "2023-05-08T23:14:00Z",
+          "channelId": "UCJS9pqu9BzkAMNTmzNMNhvg",
+          "title": "Introduction to Generative AI",
+          "description": "Enroll in this course on Google Cloud Skills Boost → https://goo.gle/3MdGgHs What is Generative AI and how does it work?",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/G2fqAlgmoPo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/G2fqAlgmoPo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/G2fqAlgmoPo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Google Cloud Tech",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-05-08T23:14:00Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "9bV4FIPlJ3iryR0ZnHh5PxFscq8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "2p5OHDxR2l8"
+        },
+        "snippet": {
+          "publishedAt": "2024-09-19T15:30:00Z",
+          "channelId": "UCZgt6AzoyjslHTC9dz0UoTw",
+          "title": "Introduction to Generative AI",
+          "description": "Tired of managing authentication or dealing with costly auth providers? Try PropelAuth. Use code BYTE24 for 50% off their ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/2p5OHDxR2l8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/2p5OHDxR2l8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/2p5OHDxR2l8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "ByteByteGo",
+          "liveBroadcastContent": "none",
+          "publishTime": "2024-09-19T15:30:00Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "sRMt9uF78oYJ7qNMTzvJ8VqfpOo",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "cZaNf2rA30k"
+        },
+        "snippet": {
+          "publishedAt": "2024-04-08T14:38:31Z",
+          "channelId": "UCTMRxtyHoE3LPcrl-kT4AQQ",
+          "title": "Introduction to Generative AI",
+          "description": "Hop over to Google Cloud Skills Boost to enroll in the Introduction to Generative AI course for free! → Link: ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/cZaNf2rA30k/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/cZaNf2rA30k/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/cZaNf2rA30k/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Google Cloud",
+          "liveBroadcastContent": "none",
+          "publishTime": "2024-04-08T14:38:31Z"
+        }
+      }
+    ]
+  }
+  
